@@ -21,6 +21,8 @@ Explorer lab 01: Evento exclusivo e gratuito, promovido pela Rocketseat para ens
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+**Live Project:** [Deploy](https://rocketapayexlab01.netlify.app/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -47,7 +49,7 @@ Apliquei mais dois cartões, o do american express e o union pay para praticar o
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/xVebdiUN2keRLftVm7x81w/RocketPay?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
